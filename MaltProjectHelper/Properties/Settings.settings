@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MaltProjectHelper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OutLookFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\VORGIM01\AppData\Local\Microsoft\Outlook\TPWImportExcArch@heineken.com.ost</Value>
+    </Setting>
+    <Setting Name="ExportAttachmentPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\temp\ExportTest</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

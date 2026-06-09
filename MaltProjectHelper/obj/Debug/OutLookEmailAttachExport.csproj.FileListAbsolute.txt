@@ -1,0 +1,14 @@
+C:\WorkSpace\MaltProjectHelper\MaltProjectHelper\bin\Debug\Aspose.Total.NET.lic
+C:\WorkSpace\MaltProjectHelper\MaltProjectHelper\bin\Debug\MaltProjectHelper.exe.config
+C:\WorkSpace\MaltProjectHelper\MaltProjectHelper\bin\Debug\MaltProjectHelper.exe
+C:\WorkSpace\MaltProjectHelper\MaltProjectHelper\bin\Debug\MaltProjectHelper.pdb
+C:\WorkSpace\MaltProjectHelper\MaltProjectHelper\bin\Debug\Aspose.Email.dll
+C:\WorkSpace\MaltProjectHelper\MaltProjectHelper\bin\Debug\Aspose.Email.xml
+C:\WorkSpace\MaltProjectHelper\MaltProjectHelper\obj\Debug\OutLookEmailAttachExport.csproj.AssemblyReference.cache
+C:\WorkSpace\MaltProjectHelper\MaltProjectHelper\obj\Debug\MaltProjectHelper.main.resources
+C:\WorkSpace\MaltProjectHelper\MaltProjectHelper\obj\Debug\MaltProjectHelper.Properties.Resources.resources
+C:\WorkSpace\MaltProjectHelper\MaltProjectHelper\obj\Debug\OutLookEmailAttachExport.csproj.GenerateResource.cache
+C:\WorkSpace\MaltProjectHelper\MaltProjectHelper\obj\Debug\OutLookEmailAttachExport.csproj.CoreCompileInputs.cache
+C:\WorkSpace\MaltProjectHelper\MaltProjectHelper\obj\Debug\OutLookE.65918DC5.Up2Date
+C:\WorkSpace\MaltProjectHelper\MaltProjectHelper\obj\Debug\MaltProjectHelper.exe
+C:\WorkSpace\MaltProjectHelper\MaltProjectHelper\obj\Debug\MaltProjectHelper.pdb
